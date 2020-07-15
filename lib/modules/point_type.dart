@@ -1,0 +1,1 @@
+enum PointType { BENCH, MONUMENT }

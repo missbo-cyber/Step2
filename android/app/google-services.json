@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179051285962",
+    "firebase_url": "https://appstepbystep.firebaseio.com",
+    "project_id": "appstepbystep",
+    "storage_bucket": "appstepbystep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179051285962:android:8358b08e0371f9e242d333",
+        "android_client_info": {
+          "package_name": "com.stepbystep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179051285962-jf8d3ie3t5vunflbapcnebn3vur8h5ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41QHmpkLXV5jKPS95sWEGsoE2WoU-Cxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179051285962-jf8d3ie3t5vunflbapcnebn3vur8h5ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
